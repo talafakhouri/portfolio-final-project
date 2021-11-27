@@ -18,3 +18,14 @@ main{
 main div,main figcaption{
     text-align: left;
 }
+nav a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: indigo ;
+    color:white;
+    border-radius: 8px;
+}
+nav a:hover{
+    background-color:darkorchid;
+}
