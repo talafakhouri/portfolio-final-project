@@ -1,6 +1,7 @@
 body{
     min-height: 100vh;
     background: linear-gradient(to right, darkorchid,indigo,darkorchid);
+    font-family: Arial, Helvetica, sans-serif;
 }
 img{
     width: 100%;
@@ -11,6 +12,10 @@ img{
 main > *{
     display:inline-block ;
     vertical-align: top;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color:rgba(255,255,255,0.75);
 }
 main{
     text-align: center;
@@ -29,3 +34,15 @@ nav a {
 nav a:hover{
     background-color:darkorchid;
 }
+p,h3,figcaption{
+    max-width: 500px;
+    display: table;
+    margin: 10px auto; 
+}
+nav{
+    background-color: purple;
+}
+h2{
+text-align: center;
+}
+
