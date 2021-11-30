@@ -1,6 +1,6 @@
 body{
     min-height: 100vh;
-    background: linear-gradient(to right, plum, lavenderblush,plum,lavenderblush, darkorchid);
+    background: linear-gradient(to right, plum, lavenderblush,plum,lavenderblush, plum);
     font-family: Arial, Helvetica, sans-serif;
 }
 img{
