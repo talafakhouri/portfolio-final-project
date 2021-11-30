@@ -1,6 +1,6 @@
 body{
     min-height: 100vh;
-    background: linear-gradient(to right, mistyrose coral, tomato,mediumpurple,rebeccapurple);
+    background: linear-gradient (to right, mistyrose coral, tomato,mediumpurple,rebeccapurple);
     font-family: Arial, Helvetica, sans-serif;
 }
 img{
