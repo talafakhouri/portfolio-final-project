@@ -30,6 +30,7 @@ nav a {
     background-color: mediumpurple ;
     color:white;
     border-radius: 8px;
+    
 }
 nav a:hover{
     background-color:darkorchid;
@@ -41,9 +42,7 @@ p,h3,figcaption{
 }
 nav{
     background-color:coral;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+    
 }
 h2{
     text-align: center;
