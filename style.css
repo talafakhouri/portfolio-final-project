@@ -45,6 +45,8 @@ nav{
 h2{
     text-align: center;
     color: pink;
+    display: inline-block;
+    background-color: mediumslateblue;
     font-weight: 900;
 }
 h1{
