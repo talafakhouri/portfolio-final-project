@@ -27,7 +27,7 @@ nav a {
     text-decoration: none;
     display: inline-block;
     padding: 5px 10px;
-    background-color: indigo ;
+    background-color: rebeccapurple ;
     color:white;
     border-radius: 8px;
 }
@@ -43,8 +43,15 @@ nav{
     background-color:coral;
 }
 h2{
-text-align: center;
-color: pink;
-font-weight: 900;
+    text-align: center;
+    color: pink;
+    font-weight: 900;
 }
-
+h1{
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: mediumpurple;
+    color: pink;
+    border-radius: 8px;
+}
