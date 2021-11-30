@@ -1,6 +1,6 @@
 body{
     min-height: 100vh;
-    background: linear-gradient(to right, coral, tomato,mediumpurple,rebeccapurple, purple);
+    background: linear-gradient(to right,mistyrose, coral, tomato,mediumpurple,rebeccapurple, purple);
     font-family: Arial, Helvetica, sans-serif;
 }
 img{
@@ -27,7 +27,7 @@ nav a {
     text-decoration: none;
     display: inline-block;
     padding: 5px 10px;
-    background-color: indigo ;
+    background-color: coral ;
     color:white;
     border-radius: 8px;
 }
