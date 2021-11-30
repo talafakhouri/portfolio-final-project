@@ -44,11 +44,7 @@ nav{
 }
 h2{
     text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    padding: 5px 10px;
-    background-color: mediumpurple;
-    color:white;
+    color: pink;
     font-weight: 900;
 }
 h1{
