@@ -30,7 +30,7 @@ nav a {
     background-color: mediumpurple ;
     color:white;
     border-radius: 8px;
-    
+
 }
 nav a:hover{
     background-color:darkorchid;
@@ -56,4 +56,7 @@ h1{
     background-color: mediumpurple;
     color: coral;
     border-radius: 8px;
+}
+figcaption{
+    color: indigo;
 }
