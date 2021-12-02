@@ -57,14 +57,20 @@ h1{
     color: coral;
     border-radius: 8px;
 }
+h5{
+    text-align: center;
+    color: pink;
+    font-weight: 1300;
+}
 figcaption{
     color: indigo;
     word-spacing:6px ;
 }
-.fa-instagram {
+    .fa-instagram {
     background: #125688;
     color: white;
-  }
+}
+
   .fa {
     padding: 20px;
     font-size: 30px;
